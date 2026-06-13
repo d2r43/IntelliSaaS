@@ -117,7 +117,7 @@ IntelliSaaS is your all-in-one AI toolkit for writing compelling articles, gener
 
 6. **Open your browser**
    
-   Navigate to `http://localhost:5173` to see PrismifyAI in action.
+   Navigate to `http://localhost:5173`
 
 ## 🎯 Why Choose PrismifyAI?
 
