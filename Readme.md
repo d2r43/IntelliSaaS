@@ -1,23 +1,6 @@
-# IntelliSaaS - The Spectrum of Creation with AI
-
-##  Welcome to the Future of Creative Content
+# IntelliSaaS - AI-Powered SaaS Platform
 
 IntelliSaaS is your all-in-one AI toolkit for writing compelling articles, generating stunning visuals, and bringing your creative ideas to life.
-
-## 📸 Project Showcase
-
-###  Main Landing Page
-![AI Content Studio](./client/public/img1.png)
-*Experience the sleek and intuitive interface of PrismifyAI*
-
-### 🛠️ Six Powerful Tools at Your Fingertips
-![Tools Overview](./client/public/img2.png)
-*Discover all six creative tools designed to supercharge your content creation*
-
-###  Tools in Action
-![ Tools Demo](./client/public/img3.png)
-![ Tools Demo](./client/public/img4.png)
-*See PrismifyAI's powerful features working seamlessly together*
 
 ##  Key Features
 
