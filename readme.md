@@ -42,8 +42,8 @@ IntelliSaaS is your all-in-one AI toolkit for writing compelling articles, gener
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/prismifyai.git
-   cd prismifyai
+   git clone https://github.com/your-username/IntelliSaaS.git
+   cd IntelliSaaS
    ```
 
 2. **Install dependencies**
