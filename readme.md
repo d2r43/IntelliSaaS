@@ -144,15 +144,9 @@ We welcome contributions from the community! Here's how you can help:
 - [ ] Mobile application development
 - [ ] API marketplace for third-party integrations
 - [ ] Advanced analytics and insights
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 <div align="center">
   <strong>Developed by arka</strong>
   <br>
-  <em>Unleashing creativity through the spectrum of AI</em>
 </div>
