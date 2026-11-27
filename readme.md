@@ -58,6 +58,23 @@ and backend services.
 | Authentication | User registration, sign-in, session management, and social authentication. |
 | Subscription Management | Free and Premium plans with backend-enforced access controls. |
 
+## 📸 Application Screenshots
+
+### Homepage
+![Homepage](screenshots/01-homepage.png)
+
+### Dashboard
+![Dashboard](screenshots/02-dashboard.png)
+
+### AI Article Writer
+![Article Writer](screenshots/03-article-writer.png)
+
+### AI Image Generator
+![Image Generator](screenshots/04-image-generator.png)
+
+### Resume Review
+![Resume Review](screenshots/05-resume-review.png)
+
 ---
 
 ## 💳 Subscription Plans
@@ -85,7 +102,8 @@ on frontend restrictions.
 > AI service availability remains subject to provider quotas,
 > credits, and service limitations. Billing currently operates
 > in a Clerk development environment.
-
+### Subscription Plans
+![Pricing](screenshots/06-pricing.png)
 ---
 
 ## 🛠️ Technology Stack
