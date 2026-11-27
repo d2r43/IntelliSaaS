@@ -1,4 +1,4 @@
-import { useAuth } from '@clerk/clerk-react';
+import { useAuth } from '@clerk/react';
 import { Hash, Sparkles } from 'lucide-react'
 import React, { useState } from 'react'
 import toast from 'react-hot-toast'

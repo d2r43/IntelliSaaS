@@ -5,7 +5,7 @@ import './index.css'
 import 'aos/dist/aos.css'
 import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
-import { ClerkProvider } from '@clerk/clerk-react'
+import { ClerkProvider } from '@clerk/react'
 import AOS from 'aos'
 import { useEffect } from 'react'
 

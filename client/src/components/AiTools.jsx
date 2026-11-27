@@ -1,7 +1,7 @@
 import React from 'react'
 import { AiToolsData } from '../assets/assets'
 import { useNavigate } from 'react-router-dom'
-import { useUser } from '@clerk/clerk-react'
+import { useUser } from '@clerk/react'
 import { motion } from 'framer-motion'
 
 const AiTools = () => {

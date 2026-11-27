@@ -1,10 +1,13 @@
-import { clerkClient } from "@clerk/express";
+import { clerkClient, getAuth } from "@clerk/express";
 
 // Middleware to check userId and hasPremiumPlan
 
 export const auth = async (req, res, next)=>{
     try {
-        const {userId, has} = await req.auth();
+        const {userId, has} = getAuth(req);
+        if (!userId) {
+            return res.status(401).json({ success: false, message: "Unauthorized" });
+        }
         const hasPremiumPlan = await has({plan: 'premium'});
 
         const user = await clerkClient.users.getUser(userId);
@@ -23,6 +26,6 @@ export const auth = async (req, res, next)=>{
         req.plan = hasPremiumPlan ? 'premium' : 'free';
         next()
     } catch (error) {
-        res.json({ success: false, message: error.message })
+        next(error)
     }
 }

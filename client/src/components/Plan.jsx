@@ -1,5 +1,5 @@
 import React from 'react'
-import {PricingTable} from '@clerk/clerk-react'
+import {PricingTable} from '@clerk/react'
 
 const Plan = () => {
   return (

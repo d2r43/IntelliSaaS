@@ -1,4 +1,4 @@
-import { Protect, useClerk, useUser } from '@clerk/clerk-react'
+import { Show, useClerk, useUser } from '@clerk/react'
 import { Eraser, FileText, Hash, House, Image, LogOut, Scissors, SquarePen, Users } from 'lucide-react';
 import React from 'react'
 import { NavLink } from 'react-router-dom';
@@ -44,7 +44,7 @@ const Sidebar = ({ sidebar, setSidebar }) => {
                 <div>
                     <h1 className='text-sm font-medium'>{user.fullName}</h1>
                     <p className='text-xs text-gray-500'>
-                        <Protect plan='premium' fallback="Free">Premium</Protect> Plan
+                        <Show when={{ plan: 'premium' }} fallback="Free">Premium</Show> Plan
                     </p>
                 </div>
             </div>
