@@ -59,19 +59,19 @@ and backend services.
 ## 📸 Application Screenshots
 
 ### Homepage
-![Homepage](screenshots/01-homepage.png)
+![Homepage](screenshots/01-homepage.png.png)
 
 ### Dashboard
-![Dashboard](screenshots/02-dashboard.png)
+![Dashboard](screenshots/02-dashboard.png.png)
 
 ### AI Article Writer
-![Article Writer](screenshots/03-article-writer.png)
+![Article Writer](screenshots/03-article-writer.png.png)
 
 ### AI Image Generator
-![Image Generator](screenshots/04-image-generator.png)
+![Image Generator](screenshots/04-image-generator.png.png)
 
 ### Resume Review
-![Resume Review](screenshots/05-resume-review.png)
+![Resume Review](screenshots/05-resume-review.png.png)
 
 ---
 
@@ -101,7 +101,7 @@ on frontend restrictions.
 > credits, and service limitations. Billing currently operates
 > in a Clerk development environment.
 ### Subscription Plans
-![Pricing](screenshots/06-pricing.png)
+![Pricing](screenshots/06-pricing.png.png)
 ---
 
 ## 🛠️ Technology Stack
