@@ -58,31 +58,6 @@ and backend services.
 | Authentication | User registration, sign-in, session management, and social authentication. |
 | Subscription Management | Free and Premium plans with backend-enforced access controls. |
 
-## 📸 Application Screenshots
-
-### Homepage
-![Homepage](<img width="1920" height="1080" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/a7105344-cce3-4123-b4e4-b20ff4e8dff5" />
-)
-
-### Dashboard
-![Dashboard](<img width="1920" height="1080" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/b4fe3d6b-869c-4dd8-a3ad-bb37ff98aa1e" />
-)
-
-### AI Article Writer
-![Article Writer](<img width="1920" height="1080" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/f629c8c9-010e-4e56-87a9-3795771f50d6" />
-)
-
-### AI Image Generator
-![Image Generator](<img width="1920" height="1080" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/2756d85b-8eec-4df1-8182-83f651072262" />
-)
-
-### Resume Review
-![Resume Review](s<img width="1920" height="1080" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/ee6fc66d-e852-4634-aa1f-208358551d66" />
-)
-
-### Subscription Plans
-![Pricing](screenshots/06-pricing.png)
-
 ---
 
 ## 💳 Subscription Plans
