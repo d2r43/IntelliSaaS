@@ -12,7 +12,6 @@ intelligent image processing, resume analysis, and subscription-based
 access in a unified creative workspace.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_IntelliSaaS-6366F1?style=for-the-badge&logo=vercel)](https://arkastelinlisaas.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/d2r43/IntelliSaaS)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
