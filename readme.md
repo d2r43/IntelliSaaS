@@ -19,7 +19,6 @@ access in a unified creative workspace.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google)
 ![Clerk](https://img.shields.io/badge/Auth-Clerk-6C47FF?logo=clerk)
-![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel)
 
 </div>
 
